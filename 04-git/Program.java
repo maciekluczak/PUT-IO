@@ -39,7 +39,7 @@ public class JavaClassExample{
     //set name member of this object
     javaClassExample.setName("Visitor");
     // print the name
-    System.out.println("Hello " + javaClassExample.getName());       
+    System.out.println("Hello new-feature 1" + javaClassExample.getName());       
   }
 }
  
