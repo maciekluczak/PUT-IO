@@ -1,3 +1,4 @@
+Konflikt Lokalny- 1
 # PUT-IO
 Inżynieria oprogramowania- Laboratoria 
 
