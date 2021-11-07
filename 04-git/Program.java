@@ -39,11 +39,15 @@ public class JavaClassExample{
     //set name member of this object
     javaClassExample.setName("Visitor");
     // print the name
-    System.out.println("Hello new-feature 1" + javaClassExample.getName());       
+    System.out.println("Hello new-feature 1" + javaClassExample.getName());
+    System.out.println("changes 1" + javaClassExample.getName());
+    System.out.println("changes 2" + javaClassExample.getName()); 
+    System.out.println("changes 3" + javaClassExample.getName());               
   }
 }
  
 /*
 OUTPUT of the above given Java Class Example would be :
 Hello Visitor
+dodany komentarz, zadanie 6 
 */
